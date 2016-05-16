@@ -42,7 +42,7 @@ h2 {
     margin-bottom: 30px;
     letter-spacing: 1px;
     font-weight: 300;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 }
 
 h2:after {
